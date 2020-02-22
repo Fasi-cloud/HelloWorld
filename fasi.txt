@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA53-1CE3
+
+ Directory of C:\Users\MUHAMMAD\Documents\jenkinsjobJava
+
+23-02-2020  00:01    <DIR>          .
+23-02-2020  00:01    <DIR>          ..
+23-02-2020  00:01                 0 fasi.txt
+22-02-2020  23:49               675 Hello.class
+22-02-2020  09:52               173 Hello.java
+               3 File(s)            848 bytes
+               2 Dir(s)  28,521,574,400 bytes free
